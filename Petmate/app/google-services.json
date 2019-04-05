@@ -2,8 +2,8 @@
   "project_info": {
     "project_number": "976582713485",
     "firebase_url": "https://petmate-fc524.firebaseio.com",
-    "project_id": "petmate-fc524",
-    "storage_bucket": "petmate-fc524.appspot.com"
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCdhL6xcAsAfFlgEV0womWgvsC0BKUNiJU"
+          "current_key": ""
         }
       ],
       "services": {
